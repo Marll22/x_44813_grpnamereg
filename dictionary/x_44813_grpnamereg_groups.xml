@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Interop Group Names" max_length="40" name="x_44813_grpnamereg_groups" type="collection">
+        <element display="true" label="Group Name" mandatory="true" max_length="80" name="group_name" type="string"/>
+        <element label="SN Group" mandatory="true" max_length="32" name="sn_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="sn_group"/>
+        </index>
+    </element>
+</database>

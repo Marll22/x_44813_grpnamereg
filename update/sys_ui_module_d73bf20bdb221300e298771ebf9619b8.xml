@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Group Name Registry">173bf20bdb221300e298771ebf9619b6</application>
+        <filter/>
+        <name>Interop Group Names</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_44813_grpnamereg.group_names_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-12 02:21:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d73bf20bdb221300e298771ebf9619b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Interop Group Names</sys_name>
+        <sys_package display_value="GroupNameRegistry" source="x_44813_grpnamereg">e91a3243db221300e298771ebf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GroupNameRegistry">e91a3243db221300e298771ebf961983</sys_scope>
+        <sys_update_name>sys_ui_module_d73bf20bdb221300e298771ebf9619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-12 11:57:33</sys_updated_on>
+        <table>x_44813_grpnamereg_groups</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
